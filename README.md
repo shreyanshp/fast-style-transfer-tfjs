@@ -20,4 +20,6 @@ This will create the output image and a keras .h5 file
 
 This is done using tensorflow.js check the file fast-style.html. Note that I have and editted version of the source package `tf.min.js`. It containts many custom layers like cropping and upsampling that are yet to be implemented in tf.js. Make sure to use that file.
 
+https://shreyanshp.github.io/fast-style-transfer-tfjs/
+
 ![Alt text](screen-shot.png?raw=true "Title")
